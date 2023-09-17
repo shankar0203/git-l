@@ -13,3 +13,7 @@ print("sub value", d)
 # mul
 e = a*b
 print("mul value", e)
+
+# whole outputs
+print("Thanks")
+
